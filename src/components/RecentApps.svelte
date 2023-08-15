@@ -1,8 +1,6 @@
 <script>
     import InternetExplorer from "../icons/InternetExplorer.svelte";
     import VisualStudio from "../icons/VisualStudio.svelte";
-
-
 </script>
 
 <ul class="recentapps">
